@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
+<rect width="100%" height="100%" fill="white"/>
+<text x="20" y="28" font-family="sans-serif" font-size="18">Candidate cell-type localization</text>
+<path d="M450 45 V380" stroke="#777"/>
+<text x="15" y="69" font-family="sans-serif" font-size="13">ANO10: Unassigned</text>
+<rect x="450.00" y="52" width="13.05" height="22" fill="#b44a3a"/>
+<text x="469.05" y="69" font-family="sans-serif" font-size="12">0.059</text>
+<text x="15" y="101" font-family="sans-serif" font-size="13">AQP9: Monocyte_FCGR3A</text>
+<rect x="450.00" y="84" width="71.48" height="22" fill="#b44a3a"/>
+<text x="527.48" y="101" font-family="sans-serif" font-size="12">0.323</text>
+<text x="15" y="133" font-family="sans-serif" font-size="13">HVCN1: B</text>
+<rect x="450.00" y="116" width="260.00" height="22" fill="#b44a3a"/>
+<text x="716.00" y="133" font-family="sans-serif" font-size="12">1.176</text>
+<text x="15" y="165" font-family="sans-serif" font-size="13">P2RX1: Platelet</text>
+<rect x="450.00" y="148" width="116.99" height="22" fill="#b44a3a"/>
+<text x="572.99" y="165" font-family="sans-serif" font-size="12">0.529</text>
+<text x="15" y="197" font-family="sans-serif" font-size="13">ITPR3: Plasma</text>
+<rect x="450.00" y="180" width="33.99" height="22" fill="#b44a3a"/>
+<text x="489.99" y="197" font-family="sans-serif" font-size="12">0.154</text>
+<text x="15" y="229" font-family="sans-serif" font-size="13">KCNQ5: Plasma</text>
+<rect x="450.00" y="212" width="17.33" height="22" fill="#b44a3a"/>
+<text x="473.33" y="229" font-family="sans-serif" font-size="12">0.078</text>
+<text x="15" y="261" font-family="sans-serif" font-size="13">CACNA2D3: Unassigned</text>
+<rect x="450.00" y="244" width="21.32" height="22" fill="#b44a3a"/>
+<text x="477.32" y="261" font-family="sans-serif" font-size="12">0.096</text>
+<text x="15" y="293" font-family="sans-serif" font-size="13">CACNA1E: B</text>
+<rect x="450.00" y="276" width="0.04" height="22" fill="#b44a3a"/>
+<text x="456.04" y="293" font-family="sans-serif" font-size="12">0.000</text>
+<text x="15" y="325" font-family="sans-serif" font-size="13">LRRC8D: Platelet</text>
+<rect x="450.00" y="308" width="45.86" height="22" fill="#b44a3a"/>
+<text x="501.86" y="325" font-family="sans-serif" font-size="12">0.207</text>
+<text x="15" y="357" font-family="sans-serif" font-size="13">LRRC8B: Platelet</text>
+<rect x="450.00" y="340" width="39.65" height="22" fill="#b44a3a"/>
+<text x="495.65" y="357" font-family="sans-serif" font-size="12">0.179</text>
+<text x="20" y="415" font-family="sans-serif" font-size="13">Highest sample-mean log-normalized expression; cell types present in sample</text></svg>
