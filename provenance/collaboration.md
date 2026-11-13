@@ -40,4 +40,4 @@
 - [重点候选联合摘要](../outputs/tables/joint_candidate_summary.csv)与[完整候选×细胞类型表](../outputs/tables/joint_gene_celltype_results.csv)：甲乙结果衔接后的实际数据。
 - [细胞比例结果](../outputs/tables/celltype_proportion_results.csv)：供联合报告直接引用的样本级统计。
 
-本页为现有任务记录的脱敏摘要；原始日志与界面截图（包括最终 6/6 采纳界面）保留本地，未随目录发布，避免带入账号标识或本地路径。研究角色和分析范围说明统一见[案例范围](../README.md#案例范围与数据来源)。
+本页为现有任务记录的脱敏摘要；原始日志与界面截图（包括最终 6/6 采纳界面）保留本地，未随目录发布，避免带入账号标识或本地路径。研究角色和分析范围说明统一见[案例范围](../README.md#案例说明)。
